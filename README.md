@@ -1,7 +1,7 @@
 # E-commerce Sales Analytics: Segmentation and Pareto Optimization
 
 ## Présentation du Projet
-Ce projet consiste en une analyse approfondie des performances de ventes d'une boutique en ligne spécialisée dans l'équipement technique de niche. Il s'agit d'une entreprise réelle du milieu du sport, ce projet ayant été réalisé début mars 2026. L'étude porte sur un volume de 1 080 transactions s'étalant du 1er Janvier 2025 au 28 Février 2026.
+Ce projet consiste en une analyse approfondie des performances de ventes d'une boutique en ligne spécialisée dans l'équipement technique de niche. Il s'agit d'une entreprise réelle du milieu du sport, ce projet ayant été réalisé début mars 2026. L'étude porte sur les ventes des 1080 produits du site sur la période du 1er Janvier 2025 au 28 Février 2026.
 
 **Objectif stratégique :** Déconstruire la structure du Chiffre d'Affaires (CA) pour identifier les leviers de croissance prioritaires et optimiser l'allocation des ressources marketing via une approche assistée par intelligence artificielle.
 
