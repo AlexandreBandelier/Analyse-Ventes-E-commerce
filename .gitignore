@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# --- CUSTOM DATA RULES ---
+# On ignore tous les fichiers de données pour la sécurité
+*.csv
+*.xlsx
+
+# SAUF l'échantillon anonymisé pour le portfolio
+!sample_data.csv
+
+# On ignore les fichiers système (souvent oubliés dans le template Python)
+.DS_Store
+Thumbs.db
