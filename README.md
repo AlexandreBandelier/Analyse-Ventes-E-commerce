@@ -129,10 +129,10 @@ L'analyse des 30 termes de recherche les plus liés au CA, traitée par LLM, mon
 **Découvertes de l'analyse exploratoire :**
 - La concentration de 33% du chiffre d'affaires sur un seul mot-clé, presque deux fois plus que le deuxième, n'avais pas été identifiée. Il s'agit du mot-clé correspondant à une certification de qualité.
 - La répartition relativement uniforme de l'activité au-delà de la gamme d'entrée n'avait pas été identifiée. Le sentiment interne était que l'entreprise proposait principalement du haut-de-gamme, alors que la contraposée est vraie : l'entreprise est peu présente sur le bas-de-gamme, mais présente uniformémment sur toutes les autres gammes au-delà du bas-de-gamme.
-- La concentration de 84€ du chiffre d'affaires sur 20% des produits, eux-mêmes presque exclusivement concentrés sur 4 marques, n'avait pas été identifiée.
+- La concentration de 84% du chiffre d'affaires sur 20% des produits, eux-mêmes presque exclusivement concentrés sur 4 marques, n'avait pas été identifiée.
 
 **Recommendations :**
-L'entreprise est concentrée sur 20% des produits, eux-mêmes composés de 4 marques pourtant distinctes dans leur segment de marché. Il s'agit donc d'un avantage et d'un inconvénient : l'entreprise a l'avantage d'opérer sur des segments diversifier, mais cela dilue également les efforts marketing et de communication. Le mot-clé majeur étant un dénominateur commun aux quatre segments, il faut centrer les efforts dans un premier temps sur ce segment commun.
+L'entreprise est concentrée sur 20% des produits, eux-mêmes majoritairement composés de 4 marques pourtant distinctes dans leur segment de marché. Il s'agit donc d'un avantage et d'un inconvénient : l'entreprise a l'avantage d'opérer sur des segments diversifiés, mais cela dilue également les efforts marketing et de communication. Le mot-clé majeur étant un dénominateur commun aux quatre segments, il faut centrer les efforts dans un premier temps sur ce segment commun.
 
 ---
 
