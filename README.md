@@ -63,11 +63,11 @@ L'entreprise est concentrée sur 20% des produits, eux-mêmes majoritairement co
 
 **Actions :**
 1) **Acquisition** : Devenir la référence dans le conseil autour de la certification
-  1) SEO certification : page dédiée, ajouter le terme dans de nombreuses pages sur le site (dès lors que cela est pertinent), réseau interne de pages proposant d'autres produits de la certification sur les fiches-produits des produits certifiés, création de contenu long traîne sur le mot-clé.
-  2) SEO marques : sur moyen/long terme, effectuer ces actions dans la même logique pour les quatre marques principales, en développant un réseau sémantique interne de la certification pour chaque marque.
+- SEO certification : page dédiée, ajouter le terme dans de nombreuses pages sur le site (dès lors que cela est pertinent), réseau interne de pages proposant d'autres produits de la certification sur les fiches-produits des produits certifiés, création de contenu long traîne sur le mot-clé.
+- SEO marques : sur moyen/long terme, effectuer ces actions dans la même logique pour les quatre marques principales, en développant un réseau sémantique interne de la certification pour chaque marque.
 2) **Conversion/Réassurance** :
-  1) Filtres : permettre la sélection de la certification en tant que filtre dans les menus internes au site.
-  2) Logo/badge certification : s'assurer que le logo/badge de la certification est présent et bien visible sur toutes les fiches-produits concernées.
+- Filtres : permettre la sélection de la certification en tant que filtre dans les menus internes au site.
+- Logo/badge certification : s'assurer que le logo/badge de la certification est présent et bien visible sur toutes les fiches-produits concernées.
 
 
 ---
