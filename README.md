@@ -27,7 +27,7 @@ Le dataset brut présentait des défis techniques résolus via une synergie entr
 
 ### 1. Analyse de Concentration (Loi de Pareto)
 L'étude, réalisée par traitement algorithmique des données, révèle une dépendance critique :
-> **20% du catalogue (77 modèles clés) génère 84,18% du Chiffre d'Affaires total.**
+> **25% du catalogue (77 modèles clés) génère 88% du Chiffre d'Affaires total.**
 
 <img src="analyse-1.png" width="600">
 
