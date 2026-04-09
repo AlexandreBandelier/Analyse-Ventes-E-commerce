@@ -44,6 +44,8 @@ L'étude, réalisée par traitement algorithmique des données, révèle une dé
 ### 3. Cartographie des Partenariats Fournisseurs
 L'analyse croisée (fournisseurs vs revenus) montre que 4 acteurs majeurs représentent 75% des revenus, avec une forte spécialisation par segment de valeur pour le Fournisseur D (Luxe) et le Fournisseur B (Volume).
 
+<img src="analyse-3.png" width="600">
+
 ---
 
 ## Intelligence Sémantique et Mots-Clés
