@@ -52,6 +52,8 @@ L'analyse des 30 termes de recherche les plus liés au CA, traitée par LLM, mon
 * **Top Mot-clé (Norme de Certification) :** Génère à lui seul 33% du CA global.
 * **Insight :** La demande est tirée par la certification technique plutôt que par l'image de marque pure.
 
+<img src="analyse-1.png" width="600">
+
 ---
 
 ## Recommandation Actionnable
