@@ -30,7 +30,6 @@ L'étude, réalisée par traitement algorithmique des données, révèle une dé
 > **20% du catalogue (77 modèles clés) génère 84,18% du Chiffre d'Affaires total.**
 
 <img src="analyse-1.png" width="600">!
-[Analyse Quartile](analyse-1.png)
 
 ### 2. Segmentation Détaillée par Gammes de Prix
 | Segment de Prix | Nb Modèles | Volume Ventes | CA Généré | Prix Moyen |
