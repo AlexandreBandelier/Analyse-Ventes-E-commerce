@@ -29,6 +29,8 @@ Le dataset brut présentait des défis techniques résolus via une synergie entr
 L'étude, réalisée par traitement algorithmique des données, révèle une dépendance critique :
 > **20% du catalogue (77 modèles clés) génère 84,18% du Chiffre d'Affaires total.**
 
+![Analyse Quartile](Structure du CA _ Top 25_ vs Longue Traîne(1).png)
+
 ### 2. Segmentation Détaillée par Gammes de Prix
 | Segment de Prix | Nb Modèles | Volume Ventes | CA Généré | Prix Moyen |
 | :--- | :--- | :--- | :--- | :--- |
